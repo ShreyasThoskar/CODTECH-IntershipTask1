@@ -11,11 +11,8 @@ Project : Password Strength Checker
 
 ![IINERNSHIP_TASK1](https://github.com/user-attachments/assets/a26dda1d-9a17-459b-89d5-67c7baefc567)
 
-
-
 Objective:
 To develop a tool that evaluates the strength of user-provided passwords by analyzing their length, complexity, and uniqueness. The tool provides a clear assessment of password strength and actionable feedback to help users create secure passwords.
-
 
 Key Activities:
 * Password Strength Checking: The function check_password_strength evaluates the strength of a password based on various criteria such as length, the presence of uppercase and lowercase letters, digits, special 
